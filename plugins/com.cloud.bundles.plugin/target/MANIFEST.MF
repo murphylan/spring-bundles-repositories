@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-Vendor: Murphy
+Bundle-ActivationPolicy: lazy
+Bundle-Version: 1.0.0.001
+Bundle-Name: Helloworld
+Bundle-Activator: com.sap.demo.helloworld.Activator
+Bundle-ManifestVersion: 2
+Import-Package: org.osgi.framework
+Bundle-SymbolicName: com.cloud.bundles.spring.plugin
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+

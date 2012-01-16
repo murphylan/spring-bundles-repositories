@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='2'>
+  <artifact classifier='osgi.bundle' id='com.cloud.bundles.spring.plugin' version='1.0.0.001'>
+    <properties size='6'>
+      <property name='artifact.size' value='2854'/>
+      <property name='download.size' value='2854'/>
+      <property name='download.md5' value='05e2f7df6e01b6d3efbd0bd2bface55b'/>
+      <property name='maven-groupId' value='com.cloud.bundles'/>
+      <property name='maven-artifactId' value='com.cloud.bundles.spring.plugin'/>
+      <property name='maven-version' value='1.0.0-SNAPSHOT'/>
+    </properties>
+  </artifact>
+  <artifact classifier='osgi.bundle' id='com.cloud.bundles.spring.plugin.source' version='1.0.0.001'>
+    <properties size='7'>
+      <property name='artifact.size' value='1220'/>
+      <property name='download.size' value='1220'/>
+      <property name='download.md5' value='c5436f4601d1a18ddc27c656fd2ba2a6'/>
+      <property name='maven-groupId' value='com.cloud.bundles'/>
+      <property name='maven-artifactId' value='com.cloud.bundles.spring.plugin'/>
+      <property name='maven-version' value='1.0.0-SNAPSHOT'/>
+      <property name='maven-classifier' value='sources'/>
+    </properties>
+  </artifact>
+</artifacts>

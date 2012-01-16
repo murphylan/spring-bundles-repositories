@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='org.eclipse.update.feature' id='com.cloud.bundles.spring.f.source' version='1.0.0.001'>
+    <properties size='7'>
+      <property name='artifact.size' value='2075'/>
+      <property name='download.size' value='2075'/>
+      <property name='download.md5' value='e1ec9ba44ca8ef1caa93115eed412d00'/>
+      <property name='maven-groupId' value='com.cloud.bundles'/>
+      <property name='maven-artifactId' value='com.cloud.bundles.spring.f.source'/>
+      <property name='maven-version' value='1.0.0-SNAPSHOT'/>
+      <property name='download.contentType' value='application/zip'/>
+    </properties>
+  </artifact>
+</artifacts>

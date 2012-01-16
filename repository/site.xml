@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/com.cloud.bundles.spring.f_0.0.0.jar" id="com.cloud.bundles.spring.f" version="0.0.0"/>
+   <feature url="features/com.cloud.bundles.spring.f.source_1.0.0.qualifier.jar" id="com.cloud.bundles.spring.f.source" version="0.0.0"/>
+</site>
